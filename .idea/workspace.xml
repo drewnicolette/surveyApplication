@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eef9192a-08fe-4677-ae4f-117adedd7513" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2DGVOrS1SMMuhfBws9b3qsDz7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/routes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="home" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="frontEnd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef9192a-08fe-4677-ae4f-117adedd7513" name="Default Changelist" comment="" />
+      <created>1585924699191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585924699191</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1212" y="-897" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585938101924">
+      <screen x="788" y="-1057" width="1920" height="996" />
+    </state>
+    <state x="1212" y="-897" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.996@788.-1057.1920.996" timestamp="1585938101924" />
+    <state x="1212" y="-897" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585927822899" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom" timestamp="1586055957657">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585970163627" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.23.1440.832/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.832" timestamp="1586055957657" />
+    <state width="667" height="270" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1586029780101" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.23.1440.833/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.833" timestamp="1586042306713" />
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.996@788.-1057.1920.996" timestamp="1585953633730" />
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585931150288" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center" timestamp="1586055957655">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1585970163626" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.23.1440.832/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.832" timestamp="1586055957655" />
+    <state width="667" height="270" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1586029780100" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.23.1440.833/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.833" timestamp="1586042306706" />
+    <state width="1899" height="270" key="GridCell.Tab.0.center/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.996@788.-1057.1920.996" timestamp="1585953633728" />
+    <state width="1899" height="270" key="GridCell.Tab.0.center/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585931150286" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left" timestamp="1586055957654">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1585970163625" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.23.1440.832/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.832" timestamp="1586055957654" />
+    <state width="667" height="270" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1586029780099" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.23.1440.833/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.833" timestamp="1586042306704" />
+    <state width="1899" height="270" key="GridCell.Tab.0.left/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.996@788.-1057.1920.996" timestamp="1585953633727" />
+    <state width="1899" height="270" key="GridCell.Tab.0.left/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585931150285" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right" timestamp="1586055957656">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1585970163626" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1440.832/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.832" timestamp="1586055957656" />
+    <state width="667" height="270" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1586029780101" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1440.833/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.833" timestamp="1586042306712" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.996@788.-1057.1920.996" timestamp="1585953633729" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585931150287" />
+    <state x="1413" y="-837" width="670" height="676" key="search.everywhere.popup" timestamp="1585935056251">
+      <screen x="788" y="-1057" width="1920" height="997" />
+    </state>
+    <state x="1413" y="-837" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585935056251" />
+  </component>
+</project>
