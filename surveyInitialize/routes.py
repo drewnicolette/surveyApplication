@@ -5,7 +5,7 @@ from surveyInitialize import app
 #From forms file... import registration form and login forms (These are classes that include fields to display on the homescreen along with rules for each field)
 from surveyInitialize.forms import RegistrationForm, LoginForm
 
-#Looks for home.html template in /template director y
+#Renders the login.html template in /template directory
 @app.route("/", methods=['GET','POST'])
 def hello():
     form = LoginForm()

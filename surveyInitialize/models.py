@@ -1,8 +1,10 @@
 #Database Models
 from datetime import datetime
+
+#Getting Db instance from __init__.py
 from surveyInitialize import db
 
-
+#This creates the database fields
 class User(db.Model):
     id = db.Column(db.Integer,primary_key=True)
     firstname = db.Column(db.String(20), nullable=False)
