@@ -1,5 +1,5 @@
 from flask import render_template, flash, redirect, url_for
-from surveyInitialize.models import User, Post
+from surveyInitialize.db import User, Post
 from surveyInitialize import app
 
 #From forms file... import registration form and login forms (These are classes that include fields to display on the homescreen along with rules for each field)
