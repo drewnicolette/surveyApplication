@@ -18,3 +18,10 @@ class LoginForm(FlaskForm):
     password = PasswordField('Password',validators=[DataRequired()])
     remember = BooleanField('Remember Me')
     submit = SubmitField('Login')
+
+#Front end fields
+class QuestionForm(FlaskForm):
+    answer1 = StringField('Answer1',validators=[DataRequired()])
+    answer2 = StringField('Answer2',validators=[DataRequired()])
+    answer3 = StringField('Answer3',validators=[DataRequired()])
+

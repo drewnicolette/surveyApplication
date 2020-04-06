@@ -1,0 +1,32 @@
+{% extends "layout.html" %} <!-- Uses the layout.html as a main template, everything else is unique to each page -->
+{% block content %}
+    <div class="container">
+      <h2>Questions/Answers</h2>
+      <p>Question 1 is going to go here</p>
+      <form action="/action_page.php">
+        <div class="form-group">
+          <label for="comment">Answer 1:</label>
+          <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+        </div>
+      </form>
+    </div>
+    <div class="container">
+      <p>Question 2 is going to go here</p>
+      <form action="/action_page.php">
+        <div class="form-group">
+          <label for="comment">Answer 2:</label>
+          <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+        </div>
+      </form>
+    </div>
+    <div class="container">
+      <p>Question 3 is going to go here</p>
+      <form action="/action_page.php">
+        <div class="form-group">
+          <label for="comment">Answer 3:</label>
+          <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+        </div>
+      </form>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+{% endblock content %}

@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eef9192a-08fe-4677-ae4f-117adedd7513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/surveyInitialize/templates/questions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surveyInitialize/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/surveyInitialize/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surveyInitialize/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/surveyInitialize/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surveyInitialize/templates/home.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/surveyInitialize/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/surveyInitialize/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surveyInitialize/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/surveyInitialize/templates/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -134,10 +139,11 @@
     <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1440.833/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.833" timestamp="1586042306712" />
     <state width="1899" height="270" key="GridCell.Tab.0.right/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.996@788.-1057.1920.996" timestamp="1585953633729" />
     <state width="1899" height="270" key="GridCell.Tab.0.right/0.23.1440.877/-1137.-1057.1920.1057/788.-1057.1920.997@788.-1057.1920.997" timestamp="1585931150287" />
-    <state x="378" y="74" width="683" height="729" key="find.popup" timestamp="1586121928180">
+    <state x="378" y="74" width="683" height="729" key="find.popup" timestamp="1586136702894">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="378" y="74" width="683" height="729" key="find.popup/0.23.1440.831/-1137.-1057.1920.1057/788.-1057.1920.1057@0.23.1440.831" timestamp="1586121928180" />
+    <state x="378" y="74" width="683" height="729" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1586136702894" />
     <state x="1413" y="-837" width="670" height="676" key="search.everywhere.popup" timestamp="1585935056251">
       <screen x="788" y="-1057" width="1920" height="997" />
     </state>
