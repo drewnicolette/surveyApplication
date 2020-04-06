@@ -1,19 +1,15 @@
 #Intialize Application and bring together components
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
+from flask_bcrypt import Bcrypt
 from datetime import datetime
 
 #Knows where to look for template and static files
 app = Flask(__name__)
-
-#Set secret key
-app.config['SECRET_KEY'] = '123456789'
-
-#This site.db is a database file where we are going to stored database
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'
-
-#Database instance, sending this to models.py
-db = SQLAlchemy(app)
+app.config['SECRET_KEY'] = '123456789' #Set secret key
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'  #This site.db is a database file where we are going to stored database
+db = SQLAlchemy(app) #Database instance, sending this to models.py
+bcrypt = Bcrypt(app) #For hashing passwords
 
 from surveyInitialize import routes
 
