@@ -1,0 +1,21 @@
+{% extends "layout.html" %} <!-- Uses the layout.html as a main template, everything else is unique to each page -->
+{% block content %}
+    <form method="POST" action="">
+        <div class="dropdown">
+            <h2>Surveys</h2>
+            <button class="btn btn-secondary btn-lg" type="button" data-toggle="dropdown">Choose from List of Surveys
+            <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+                <li><a href="/questions">Survey1</a></li>
+                <li><a href="/questions">Survey2</a></li>
+                <li><a href="/questions">Survey3</a></li>
+            </ul>
+            <br>
+            <br>
+            <br>
+        </div>
+        <div class="form-group">
+            {{ form.submit(class="btn btn-outline-info") }}
+        </div>
+    </form>
+{% endblock content %}
